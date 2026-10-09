@@ -1,0 +1,35 @@
+Secrets
+
+
+.env
+
+
+Local database
+
+
+*.db
+*.db-journal
+*.sqlite3
+
+
+Temporary audio
+
+
+temp_audio/
+
+
+Python
+
+
+pycache/
+*.py[cod]
+.venv/
+venv/
+
+
+IDE / OS
+
+
+.idea/
+.vscode/
+.DS_Store
